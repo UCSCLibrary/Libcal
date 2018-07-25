@@ -1,7 +1,6 @@
-/* Global Styles */
-
 /* Note: Add this in the Custom JS/CSS box here: https://calendar.library.ucsc.edu/admin_look.php?action=0, wrapped in <style></style> tags.
 */
+/* Global Styles */
 
 *{
 margin:0;
@@ -1603,6 +1602,10 @@ body.front .footer2 {
 
 
 /*LibCal Content Styling*/
+
+#s-lc-public-skiplink {
+    padding: 0px;
+}
 
 .breadcrumb {display:none;}
 
