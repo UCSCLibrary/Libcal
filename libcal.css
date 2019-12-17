@@ -1633,6 +1633,11 @@ background-color:#1AFF1A;
 }
 /*set background of available room to accessible bright green*/
 
+.lc_rm_t {
+background-color:#F5F216;
+}
+/*set tentative booking selected room to bright yellow*/
+
 .label-rm-avail {
 background-color:#1AFF1A; 
 color:#000; 
